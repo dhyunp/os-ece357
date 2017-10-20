@@ -14,7 +14,7 @@ To compile, type the following command:
 
 ## Usage ##
 
-Usage syntax for `copycat` is given by the following:
+Usage syntax for `minicat` is given by the following:
 
 	minicat [-b ###] [-o outfile] infile1 [...infile2...]
 	minicat [-b ###] [-o outfile]
