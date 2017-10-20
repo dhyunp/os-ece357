@@ -10,7 +10,7 @@ The objective for this assignment was to create a "clone" of the UNIX utility **
 
 To compile, type the following command:
 
-# gcc -o minicat minicat.c
+'# gcc -o minicat minicat.c'
 
 ## Usage ##
 
