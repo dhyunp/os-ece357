@@ -1,0 +1,10 @@
+total 36
+-rw-rw-rw- 1 dhpark dhpark     7 Oct 30 00:56 cat2.out
+-rw-rw-rw- 1 dhpark dhpark     6 Oct 30 00:53 cat.out
+-rwxrwxrwx 1 dhpark dhpark    28 Oct 30 00:57 input.txt
+-rw-rw-rw- 1 dhpark dhpark     0 Oct 30 00:59 ls.out
+-rwxrwxrwx 1 dhpark dhpark 14344 Oct 30 00:47 myshell
+-rw-rw-rw- 1 dhpark dhpark  5914 Oct 30 00:22 myshell.c
+-rwxrwxrwx 1 dhpark dhpark   408 Oct 30 00:55 test2.sh
+drwxrwxrwx 0 dhpark dhpark   512 Oct 30 00:58 testdir1
+-rwxrwxrwx 1 dhpark dhpark   738 Oct 30 00:14 testme1.sh
